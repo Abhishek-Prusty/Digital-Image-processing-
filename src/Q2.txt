@@ -1,0 +1,5 @@
+1.Yes it is a linear operator by defination,If we take x and y as 2 matries and A as the linear operator. If z = ax + by for some constants a,b then A(z) = aA(x) + bA(b)
+
+2.A must be an 1 x n*m matrix where first n elements are 1 and rest are 0
+
+3.Images which would have all elements of first row having value 0 would make a null space. Hence elements of this null space will give return a n-d vector of value 0 in all cases.
